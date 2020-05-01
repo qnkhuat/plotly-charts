@@ -1,3 +1,4 @@
 # ploty-charts
 
-go to branch gh-pages
+Run `python make_index.py ./ --header index.html` before add a new page
+
