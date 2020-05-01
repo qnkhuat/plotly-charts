@@ -2,6 +2,6 @@
     hooks:
     -   id: pylint
         name: gen_index
-        entry: python make_index.py ./ --header index.html
+        entry: python make_index.py ./  --header index.html
         language: system
         types: [python]
